@@ -1,0 +1,7 @@
+{
+  "name": "modesteFormationIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
